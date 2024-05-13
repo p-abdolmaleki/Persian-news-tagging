@@ -1,1 +1,5 @@
-# Persian-news-tagging
+# Persian news tagging
+- In this repository, we have classified Persian language news into 11 classes that were crawled from a news site.
+- In the visualization folder, we have visualized the data to understand and extract the hidden information of the dataset. This visualization is done on [this dataset](https://www.kaggle.com/datasets/parsaabdolmaleki/persion-news-dataset).
+- In the ML folder, using classical machine learning models, we have predicted the news class from the word frequency vector, we have examined the results of different models in detail. This machine learning was performed on [this dataset](https://www.kaggle.com/datasets/parsaabdolmaleki/persion-news-dataset).
+- In the DL folder, by using several deep learning models (convolutional, recursive, transformative and attention mechanism, two-way recursive, etc.), we have predicted the news class from the embedding vector of words. We have examined the results of different models in detail.This deep learning is performed on [this dataset](https://www.kaggle.com/datasets/parsaabdolmaleki/persian-news-preprocessed) which is a pre-processed version of the previous dataset.
